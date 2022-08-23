@@ -5,13 +5,17 @@ Lab [homepage](https://lab.fieldphenomics.com/)
 
 ## lec08
 植物画像データに基づくデータ解析の応用例.  
-Applications of Image analysis for agriculture.
+Applications of Image analysis for agriculture.  
+[資料Slides]()
 ## lec09
 植物画像データの収集.  
 Data collection 
 ## lec10
 植物画像データの画像解析（１）  
-Fundamentals of image analysis(Vectors and matrices operation)
+Fundamentals of image analysis(Vectors and matrices operation)  
+1. Googlecolab_fundamentals_1  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_1_jp.ipynb) <br>
+2. Googlecolab_fundamentals_2
 ## lec11
 植物画像データの画像解析（２）  
 Fundamentals of image analysis(Undstand Digital images and Preprossing)
@@ -25,5 +29,6 @@ Image analysis for agriculture: Deep learning
 Image analysis for agriculture: Multi-dimensional imaging 
 ## lec14
 深層学習を実践する　（レポート)
+[資料Slides]()
 
 
