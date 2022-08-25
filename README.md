@@ -25,11 +25,13 @@ Fundamentals of image analysis(Undstand Digital images and Preprossing)
 ## lec12
 植物画像データの機械学習  
 Image analysis for agriculture: Machine learning  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_Plant_Coverage.ipynb) <br>
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br>
 ## lec13
 植物画像データの深層学習  
 Image analysis for agriculture: Deep learning  
-Image analysis for agriculture: Multi-dimensional imaging 
+Image analysis for agriculture: Multi-dimensional imaging  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/PointCloudProcess.ipynb) <br>
+
 ## lec14
 深層学習を実践する　（レポート)
 [資料Slides]()
