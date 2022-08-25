@@ -17,6 +17,8 @@ Fundamentals of image analysis(Vectors and matrices operation)
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_1_jp.ipynb) <br>
 2. Googlecolab_fundamentals_2  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_2_jp.ipynb) <br>
+3. Googlecolab_fundamentals_3  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_3_jp.ipynb) <br>
 ## lec11
 植物画像データの画像解析（２）  
 Fundamentals of image analysis(Undstand Digital images and Preprossing)
