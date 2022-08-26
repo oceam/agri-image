@@ -7,9 +7,12 @@ Lab [homepage](https://lab.fieldphenomics.com/)
 植物画像データに基づくデータ解析の応用例.  
 Applications of Image analysis for agriculture.  
 [資料Slides]()
+
 ## lec09
 植物画像データの収集.  
-Data collection 
+Data collection  
+[資料Slides]()
+
 ## lec10
 植物画像データの画像解析（１）  
 Fundamentals of image analysis(Vectors and matrices operation)  
@@ -24,11 +27,12 @@ Fundamentals of image analysis(Undstand Digital images and Preprossing)
 1. Googlecolab_fundamentals_3  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_3_jp.ipynb) <br>
 2. Googlecolab_fundamentals_4  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_4_jp.ipynb) <br>
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_4_jp.ipynb) <br>  
+
 ## lec12
 植物画像データの機械学習  
 Image analysis for agriculture: Machine learning  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br>
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br>  
 ## lec13
 植物画像データの深層学習  
 Image analysis for agriculture: Deep learning  
@@ -36,7 +40,16 @@ Image analysis for agriculture: Multi-dimensional imaging
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/PointCloudProcess.ipynb) <br>
 
 ## lec14
-深層学習を実践する　（レポート)
-[資料Slides]()
+深層学習を実践する　（レポート)  
+Dataset  
+1. [Experience AI use Google Teachable Machine](https://teachablemachine.withgoogle.com/)  
+2. [Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
 
+## Useful information
+1. [おすすめ深層学習入門動画(videos introduce Deep learning in Japanese)](https://www.youtube.com/c/NeuralNetworkConsole)
+2. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
+original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
+3. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).  
+4. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
+5. [AIセミナー"深層学習を使ったキュウリ選別機つくってみた" (a farmer made his own Cucumber ranking machine)](https://youtu.be/3E3jYjZ9h78)
 
