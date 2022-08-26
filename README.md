@@ -56,10 +56,14 @@ Dataset
 2. [Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
 
 ## Useful information
-1. [おすすめ深層学習入門動画(videos introduce Deep learning in Japanese)](https://www.youtube.com/c/NeuralNetworkConsole)
-2. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
+1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
-3. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).  
-4. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
-5. [AIセミナー"深層学習を使ったキュウリ選別機つくってみた" (a farmer made his own Cucumber ranking machine)](https://youtu.be/3E3jYjZ9h78)
+2. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).  
+3. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
+4. [AIセミナー"深層学習を使ったキュウリ選別機つくってみた" (a farmer made his own Cucumber ranking machine)](https://youtu.be/3E3jYjZ9h78)
+5. [Youtube：おすすめ深層学習入門動画(videos introduce Deep learning in Japanese)](https://www.youtube.com/c/NeuralNetworkConsole)
+6. [Youtube：The Future of Farming](https://youtu.be/Qmla9NLFBvU)
+7. [Youtube：Drones, robots, and super sperm – the future of farming](https://youtu.be/qwNVNE83Udo)  
+8. [農林水産省：スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
+9. [農林水産省：農業DX構想](https://www.maff.go.jp/j/press/kanbo/joho/210325.html)
 
