@@ -20,9 +20,7 @@ Applications of Image analysis for agriculture.
 Data collection  
 [資料Slides]()
 1. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).　　
-2. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).  
-
-
+2. UGVPP, field phenotyping rover, [homepage](https://github.com/UTokyo-FieldPhenomics-Lab/UGVPP).
 
 ## lec10
 ### 植物画像データの画像解析（１）  
