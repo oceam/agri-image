@@ -2,7 +2,12 @@
 Image processing for agriculture.  
 By Laboratory of Field Phenomics, Graduate School of Agricultural and Life Sciences, The University of Tokyo.  
 Lab [homepage](https://lab.fieldphenomics.com/)
-
+  
+## 事前準備（Preparation）
+[SetupGooglecolab](https://drive.google.com/file/d/1gkNQDE2NYd5b9xj5fNDu5e9pCtc4lIaN/view?usp=sharing)  
+なぜGooglecolab？  
+Pythonの環境構築不要なWebサービス（基本無料）
+  
 ## lec08
 植物画像データに基づくデータ解析の応用例.  
 Applications of Image analysis for agriculture.  
