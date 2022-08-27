@@ -44,7 +44,12 @@ Image analysis for agriculture: Machine learning
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br>  
 ## lec13
 ### 植物画像データの深層学習  
-Image analysis for agriculture: Deep learning
+Image analysis for agriculture: Deep learning  
+Demo1:  
+[Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
+Demo2:  
+[Example:ムギ穂検出モデル(wheat head detection)](https://demo.roboflow.com/gwhd2021/2?publishable_key=rf_weZnIlXkTFd6iBv8A6VW4nGUH673)  
+
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).
 2. Image classification  
@@ -62,8 +67,10 @@ Image analysis for agriculture: Multi-dimensional imaging
 1. Dataset  
 1.1. [Weed discrimination dataset](https://drive.google.com/drive/folders/1kAKfIyv2DGHnGB0NPSJAJJcDCA8U2dGe?usp=sharing)  
 1.2. [roboflowPublickDtaset](https://public.roboflow.com/)
-3. [Experience AI use Google Teachable Machine](https://teachablemachine.withgoogle.com/)  
-4. [Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
+2. Try play with weed discrimination model  
+2.1. Use [Google Teachable Machine](https://teachablemachine.withgoogle.com/)  
+2.2. Use Google colab  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_02.ipynb) <br>
 
 ## Useful information  
 1. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
