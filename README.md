@@ -51,7 +51,9 @@ Demo2:
 [Example:ムギ穂検出モデル(wheat head detection)](https://demo.roboflow.com/gwhd2021/2?publishable_key=rf_weZnIlXkTFd6iBv8A6VW4nGUH673)  
 
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
-original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).
+original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
+2. TensorFlow2 for beginner  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/TensorFlow2beginner.ipynb) <br>  
 2. Image classification  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
 3. Object detection  
