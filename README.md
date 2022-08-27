@@ -46,7 +46,7 @@ Image analysis for agriculture: Machine learning
 ### 植物画像データの深層学習  
 Image analysis for agriculture: Deep learning  
 Demo1:  
-[Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
+[Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)  
 Demo2:  
 [Example:ムギ穂検出モデル(wheat head detection)](https://demo.roboflow.com/gwhd2021/2?publishable_key=rf_weZnIlXkTFd6iBv8A6VW4nGUH673)  
 
