@@ -61,7 +61,7 @@ Image analysis for agriculture: Multi-dimensional imaging
 ### 深層学習を実践する　（レポート)  
 1. Dataset  
 1.1. [Weed discrimination dataset](https://drive.google.com/drive/folders/1kAKfIyv2DGHnGB0NPSJAJJcDCA8U2dGe?usp=sharing)  
-1.2. 
+1.2. [roboflowPublickDtaset](https://public.roboflow.com/)
 3. [Experience AI use Google Teachable Machine](https://teachablemachine.withgoogle.com/)  
 4. [Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
 
