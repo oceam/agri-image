@@ -76,4 +76,5 @@ Data collection
 1. [Youtube：Drones, robots, and super sperm – the future of farming](https://youtu.be/qwNVNE83Udo)  
 1. [農林水産省：スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
 1. [農林水産省：農業DX構想](https://www.maff.go.jp/j/press/kanbo/joho/210325.html)
+1. [九州大学3Dデジタル生物標本](https://www.kyushu-u.ac.jp/ja/researches/view/802/)
 
