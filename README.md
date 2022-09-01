@@ -32,7 +32,7 @@ Fundamentals of image analysis(Undstand Digital images and Preprossing)
 
 ## 植物画像データの機械学習  
 Image analysis for agriculture: Machine learning  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br>  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br> 
 [get your data here](https://www.dropbox.com/sh/vlurba3c7lxx70h/AAB0Kt3hxoCYODGvLGiq5rN1a?dl=0)  
 
 ## 植物画像データの深層学習  
@@ -44,11 +44,12 @@ Demo2:
 
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
-2. TensorFlow2 for beginner  
+1. [初心者のための TensorFlow 2.0 入門](https://www.tensorflow.org/tutorials/quickstart/beginner)  
+1. TensorFlow2 for beginner  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/TensorFlow2beginner.ipynb) <br>  
-2. Image classification  
+1. Image classification  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
-3. Object detection  
+1. Object detection  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>  
   
 
