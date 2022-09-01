@@ -33,7 +33,6 @@ Fundamentals of image analysis(Undstand Digital images and Preprossing)
 ## 植物画像データの機械学習  
 Image analysis for agriculture: Machine learning  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br> 
-[get your data here](https://www.dropbox.com/sh/vlurba3c7lxx70h/AAB0Kt3hxoCYODGvLGiq5rN1a?dl=0)  
 
 ## 植物画像データの深層学習  
 Image analysis for agriculture: Deep learning  
