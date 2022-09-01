@@ -44,7 +44,8 @@ Demo2:
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
 1. [初心者のための TensorFlow 2.0 入門](https://www.tensorflow.org/tutorials/quickstart/beginner)  
-1. TensorFlow2 for beginner  
+2. [畳み込みニューラルネットワーク (Convolutional Neural Networks)](https://www.tensorflow.org/tutorials/images/cnn)
+3. TensorFlow2 for beginner  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/TensorFlow2beginner.ipynb) <br>  
 1. Image classification  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
