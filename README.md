@@ -59,9 +59,15 @@ Image analysis for agriculture: Multi-dimensional imaging
 
 ## 植物画像データの収集.  
 Data collection  
-[資料Slides]()
 1. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).　　
-2. UGVPP, field phenotyping rover, [homepage](https://github.com/UTokyo-FieldPhenomics-Lab/UGVPP).　　
+2. UGVPP, field phenotyping rover, [homepage](https://github.com/UTokyo-FieldPhenomics-Lab/UGVPP).
+   
+## ドローン画像解析：　　
+1. 参考資料：  
+1.1 [UAS-Based Plant Phenotyping for Research and Breeding Applications](https://spj.science.org/doi/10.34133/2021/9840192)
+2. 練習用データ：[Sugarbeet_30m](https://www.dropbox.com/sh/5epqozi01fuv2gj/AABGO9ojPdxrQa74sNUeSxJAa?dl=0)
+3. ソフトウェア：[PREPs: Precision Plots Analyser for breeding field](http://cse.naro.affrc.go.jp/aitoh/PREPs/)
+
 
 ## 深層学習を実践する 
 1. Dataset  
