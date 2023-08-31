@@ -22,7 +22,7 @@ Fundamentals of image analysis(Vectors and matrices operation)
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_2_jp.ipynb) <br>
 
 ## 植物画像データの画像解析（２）  
-Fundamentals of image analysis(Undstand Digital images and Preprossing)
+Fundamentals of image analysis(Undstand Digital images and Preprocessing)
 1. Googlecolab_fundamentals_3  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_3_jp.ipynb) <br>
 2. Googlecolab_fundamentals_4  
@@ -51,8 +51,11 @@ original version from Here: [Zijie J. Wang et al., 2020](https://github.com/polo
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
 1. Object detection  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>
+<!---
 1. Semantic segmentation  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/semantic_segmentation.ipynb) <br>
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/semantic_segmentation.ipynb) <br> 
+--->
+
   
 
 ## 多次元画像データの解析（三次元点群中心）  
