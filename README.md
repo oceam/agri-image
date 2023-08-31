@@ -81,7 +81,7 @@ Data collection
 2. Try playing with weed discrimination model(Classification)  
 2.1. Use [Google Teachable Machine](https://teachablemachine.withgoogle.com/)   
 2.1.1 Try to use the model made from Google Teachable machine  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/test_teachable_machine_model_20230830.ipynb) <br>
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/test_teachable_machine_model_20230901.ipynb) <br>
 2.2. Use Google colab  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_02.ipynb) <br>
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_04.ipynb) <br>
