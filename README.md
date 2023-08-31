@@ -51,10 +51,10 @@ original version from Here: [Zijie J. Wang et al., 2020](https://github.com/polo
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
 1. Object detection  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>
-<!---
+
 1. Semantic segmentation  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/semantic_segmentation.ipynb) <br> 
---->
+
 
   
 
