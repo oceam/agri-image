@@ -50,7 +50,9 @@ original version from Here: [Zijie J. Wang et al., 2020](https://github.com/polo
 1. Image classification  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
 1. Object detection  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>
+1. Semantic segmentation  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/semantic_segmentation.ipynb) <br>
   
 
 ## 多次元画像データの解析（三次元点群中心）  
@@ -73,9 +75,9 @@ Data collection
 1. Dataset  
 1.1. [Weed discrimination dataset](https://drive.google.com/drive/folders/1kAKfIyv2DGHnGB0NPSJAJJcDCA8U2dGe?usp=sharing)  
 1.2. [roboflowPublickDtaset](https://public.roboflow.com/)
-2. Try play with weed discrimination model  
+2. Try playing with weed discrimination model(Classification)  
 2.1. Use [Google Teachable Machine](https://teachablemachine.withgoogle.com/)   
-2.1.1 try to use the model made from google teachable machine  
+2.1.1 Try to use the model made from Google Teachable machine  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/test_teachable_machine_model_20230830.ipynb) <br>
 2.2. Use Google colab  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_02.ipynb) <br>
