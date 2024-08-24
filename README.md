@@ -90,6 +90,13 @@ Data collection
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_02.ipynb) <br>
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_04.ipynb) <br>
 
+## More practice  
+### Please note the codes are modified from [Python言語で学ぶ植物画像解析](https://github.com/phytometrics/plant_phenotyping_python) by @totti0223
+1. ドローン画像からのキクイモの表現型定量  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/WEIPS_copy.ipynb) <br> 
+
+
+
 ## Useful information  
 1. [Yann LeCun 深層学習コース(多言語資料あり)](https://atcold.github.io/pytorch-Deep-Learning/ja/)
 1. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
