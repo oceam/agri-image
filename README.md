@@ -99,7 +99,7 @@ Data collection
 
 
 ## Useful information  
-1. [Yann LeCun 深層学習コース(多言語資料あり)](https://atcold.github.io/pytorch-Deep-Learning/ja/)
+1. [Yann LeCun 深層学習コース(多言語資料あり->2024アクセス不能)](https://atcold.github.io/pytorch-Deep-Learning/ja/)
 1. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
 1. [AIセミナー"深層学習を使ったキュウリ選別機つくってみた" (a farmer made his own Cucumber ranking machine)](https://youtu.be/3E3jYjZ9h78)
 1. [Youtube: Farmer live camera in　鹿児島](https://www.youtube.com/channel/UCpslgQ4Maq47zDUoHiFWwMQ)
