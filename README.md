@@ -91,6 +91,8 @@ Data collection
 2.2. Use Google colab  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_02.ipynb) <br>
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_04.ipynb) <br>
+3. hyperparameters <br>
+3.1. [EpochとBatch SizeとIterationsとNumber of batchesの違い](https://webbigdata.jp/post-9697/)
 
 ## More practice  
 ### Please note the codes are modified from [Python言語で学ぶ植物画像解析](https://github.com/phytometrics/plant_phenotyping_python) by @totti0223
